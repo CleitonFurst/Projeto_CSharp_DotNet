@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6o7YEHtu/06utI0vDXjnrAAAAAACAAAAAAAQZgAAAAEAACAAAAB2F3rPK5ia4VQ0BqzaE+KMQY7cqqtTboVz3+4FPuOPNQAAAAAOgAAAAAIAACAAAADe/TtXJ+bHLRypfys3+lrMbzfDI6VSPqcsxRvxgiBKkYAAAABSuNaCZSJk+GHy4xRJtN4kRzg8ixmSGKEO16NeWMyxoQKRRzeTyOSNU8r4u90L8OmQ7h6BLAW/Rf3ZSIdgFOi8E311X/U1keyAtRJWghpIUlXPeJsantrpltPyupPnlLUC8d1pSuO1rsB6zmdX6mi+rMMpBRtqpwcRKBjfOpDQmUAAAABVWIP6nhlHstyFmjTyPVki53r2xN+Z4Dnu70so2oQ3Osq/yBwegn+Atp9l5F5wIXfhAZXUKfoDgJXo9oP4DxoY</EncryptedPassword>
+    <History>True|2021-09-05T00:02:01.6115375Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="books.Data.BookContext">
+      <Value>Data Source=tcp:booksdbserver1.database.windows.net,1433%3bInitial Catalog=books_db%3bUser Id=cleiton%40booksdbserver1%3bPassword=60%40n0%24BATT</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>books</name>
+    </assembly>
+    <members>
+        <member name="M:books.Controllers.AuthController.Register(Microsoft.AspNetCore.Identity.IdentityUser)">
+            <summary>
+            Cria um novo usuario para aplicação 
+            </summary>
+            <param name="identityUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.AuthController.Token(Microsoft.AspNetCore.Identity.IdentityUser)">
+            <summary>
+            cria um novo toke de acesso para o usúario 
+            </summary>
+            <param name="identityUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.Index">
+            <summary>
+            Retorna todos os livros cadastrados 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.Index(System.Nullable{System.Int32})">
+            <summary>
+            A rota recebe um id especifico que retorna um livro correpondente a este id 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.Random">
+            <summary>
+            Retona um livro aleatório 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.Create(books.Models.Book)">
+            <summary>
+            Rota para criação de um novo livro (inserir os parametros necessarios )
+            </summary>
+            <param name="book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.Update(books.Models.Book)">
+            <summary>
+            Realiza a atualização de um livro esta rota recebe um id correspondente a um livro ja cadastrado
+            </summary>
+            <param name="book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.Delete(System.Nullable{System.Int32})">
+            <summary>
+            Rota para deletar um livro esta rota recebe um id correspondente a um livro cadastrado 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:books.Controllers.BooksController.BooksByRole(System.String)">
+            <summary>
+            esta rota tras os livros cadastrados pelo tipo de permição que o usúario logado tem 
+            </summary>
+            <param name="role"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
