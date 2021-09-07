@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furst\\source\\repos\\books_and_sleeves\\books.csproj": {}
+    "C:\\Users\\furst\\Documents\\GitHub\\Projeto_CSharp_DotNet\\books.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furst\\source\\repos\\books_and_sleeves\\books.csproj": {
+    "C:\\Users\\furst\\Documents\\GitHub\\Projeto_CSharp_DotNet\\books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furst\\source\\repos\\books_and_sleeves\\books.csproj",
+        "projectUniqueName": "C:\\Users\\furst\\Documents\\GitHub\\Projeto_CSharp_DotNet\\books.csproj",
         "projectName": "books",
-        "projectPath": "C:\\Users\\furst\\source\\repos\\books_and_sleeves\\books.csproj",
+        "projectPath": "C:\\Users\\furst\\Documents\\GitHub\\Projeto_CSharp_DotNet\\books.csproj",
         "packagesPath": "C:\\Users\\furst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furst\\source\\repos\\books_and_sleeves\\obj\\",
+        "outputPath": "C:\\Users\\furst\\Documents\\GitHub\\Projeto_CSharp_DotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

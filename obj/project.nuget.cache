@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dKuorzF4m3EScwl5zIoy8H4ifqjvmP/PeqIFA29TEhZVvMLwjtYKXl0PHsOEyRzSa9aHNjYqn0H9ovJ5R30DA==",
+  "dgSpecHash": "6rFXZJ1gZazAAb57W2IOHsjD8YfyBhYLm8hHzqfVPmaOdMoKRRz8eQWGArB+s0NUsaMaq4nBd5+++ATZr6dKvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\furst\\source\\repos\\books_and_sleeves\\books.csproj",
+  "projectFilePath": "C:\\Users\\furst\\Documents\\GitHub\\Projeto_CSharp_DotNet\\books.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furst\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\furst\\.nuget\\packages\\fakeiteasy\\7.2.0\\fakeiteasy.7.2.0.nupkg.sha512",
